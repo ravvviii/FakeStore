@@ -1,4 +1,11 @@
 {
   "name": "Fakestore",
-  "displayName": "Fakestore"
+  "displayName": "Fakestore",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5ccc4fd4-8b75-4ece-bf38-858ea52d023d"
+      }
+    }
+  }
 }
